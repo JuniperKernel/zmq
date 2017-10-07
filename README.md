@@ -1,6 +1,6 @@
 # zmq
 
-Prebuilt binaries for windows 64bit (no 32 bit binaries).
+Prebuilt binaries for windows 32/64 bit
 
 osx64 is a prebuild holding the libzmq.a static library
 
